@@ -1,5 +1,5 @@
 #sosai
 
-<h1> bobu</h1>
+<h1 color="red"> bobu</h1>
 
 bobu
