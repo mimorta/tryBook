@@ -1,12 +1,4 @@
-{
-    "plugins": [
-        "json",
-        "customtheme"
-    ],
-    "pluginsConfig": {
-        "customtheme":{
-            "css": ['style/style.css']
-        }
-        
-    }
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
 }
