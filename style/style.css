@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "json",
+        "customtheme"
+    ],
+    "pluginsConfig": {
+        "customtheme":{
+            "css": ['style/style.css']
+        }
+        
+    }
+}
