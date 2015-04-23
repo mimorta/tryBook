@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "json",
+        "customtheme"
+    ],
+    "pluginsConfig": {}
+}
