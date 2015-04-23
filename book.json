@@ -1,7 +1,8 @@
 {
     "plugins": [
         "json",
-        "customtheme"
+        "customtheme",
+        "mathjax"
     ],
     "pluginsConfig": {
         "customtheme":{
@@ -10,3 +11,10 @@
         
     }
 }
+
+{
+    "styles": {
+        "website": "style/style.css"
+    }
+}
+
