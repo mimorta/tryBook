@@ -1,2 +1,2 @@
 # tryBook
-* [section 1](README)
+* [section 1](README.md)
