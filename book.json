@@ -3,5 +3,10 @@
         "json",
         "customtheme"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "customtheme":{
+            "css": ['style/style.css']
+        }
+        
+    }
 }
