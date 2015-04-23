@@ -3,13 +3,7 @@
         "json",
         "customtheme",
         "mathjax"
-    ],
-    "pluginsConfig": {
-        "customtheme":{
-            "css": ['style/style.css']
-        }
-        
-    }
+    ]
 }
 
 {
